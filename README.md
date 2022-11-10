@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adekunleomooba
-- 👀 I’m interested in learning how to code properly
+- 👀 I’m interested in meeting people
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on software engineering 
 - 📫 How to reach me on adekunleforreal@gmail.com
